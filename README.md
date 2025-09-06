@@ -69,7 +69,7 @@ npm run dev
 
 ## 🔗 Demo Link
 
-(If deployed via Bolt AI or Vercel, paste the live link here.)
+https://voice-to-text-nlp-ap-vhha.bolt.host
 
 ## 📌 Future Improvements
 
